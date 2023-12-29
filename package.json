@@ -1,0 +1,22 @@
+{
+  "name": "xsomicx",
+  "version": "1.0.0",
+  "description": "Jogo criado pelo Oliver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordphfile/XSomicX.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Pedro Henrique Bonfim Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lordphfile/XSomicX/issues"
+  },
+  "homepage": "https://github.com/Lordphfile/XSomicX#readme"
+}
